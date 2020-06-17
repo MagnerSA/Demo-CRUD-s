@@ -1,2 +1,2 @@
 # Demo-CRUD-s
-Demonstração de CRUD's básicos.
+Demonstração de CRUD básico em Flutter.
