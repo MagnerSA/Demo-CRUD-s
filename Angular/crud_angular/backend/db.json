@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Banana",
+      "price": "2.50",
+      "shelfLife": "25/02/2021"
+    },
+    {
+      "id": 2,
+      "name": "Leite",
+      "price": "5.60",
+      "shelfLife": "12/06/2019"
+    },
+    {
+      "id": 3,
+      "name": "Cookie",
+      "price": "2.00",
+      "shelfLife": "01/01/2075"
+    }
+  ]
+}
