@@ -4,9 +4,7 @@ Ao compilar o projeto em um dispositivo, temos acesso ao seguinte:
 
 ## Leitura dos produtos cadastrados:
 
-<img height="500" src="/Flutter/screenshots/01.png?raw=true">
-
-/path/to/img.jpg?raw=true
+<img height="300" src="/Flutter/screenshots/01.png?raw=true">
 
 ## Criação de um novo produto:
 
