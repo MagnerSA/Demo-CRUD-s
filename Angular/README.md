@@ -1,6 +1,6 @@
 # CRUD em Angular
-Sistema básico de cadastro de produtos para demonstração de funcionamento do CRUD em Angular.\n
-(Utilizando backend temporário)
+Sistema básico de cadastro de produtos para demonstração de funcionamento do CRUD em Angular.  
+(Utilizando backend temporário)  
 Screenshots do frontend:
 
 ## Página inicial:
