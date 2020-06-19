@@ -4,8 +4,7 @@ Ao compilar o projeto em um dispositivo, temos acesso ao seguinte:
 
 ## Leitura dos produtos cadastrados:
 
-<img height="500" src=“https://github.com/MagnerSA/Demo-CRUD-s/blob/master/Flutter/screenshots/01.png?raw=true”>
-![Test Image 3](https://github.com/MagnerSA/Demo-CRUD-s/blob/master/Flutter/screenshots/01.png?raw=true)
+<img height="500" src=“https://github.com/MagnerSA/Demo-CRUD-s/blob/master/Flutter/screenshots/01.png?raw”>
 
 ## Criação de um novo produto:
 
