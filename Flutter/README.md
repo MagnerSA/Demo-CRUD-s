@@ -4,21 +4,21 @@ Ao compilar o projeto em um dispositivo, temos acesso ao seguinte:
 
 ## Leitura dos produtos cadastrados:
 
-<img height="300" src="/Flutter/screenshots/01.png?raw=true">
+<img height="500" src="/Flutter/screenshots/01.png?raw=true">
 
 ## Criação de um novo produto:
 
-<img src=“/screenshots/02.png”>
-<img src=“/screenshots/03.png”>
-<img src=“/screenshots/04.png”>
+<img height="500" src="/Flutter/screenshots/02.png?raw=true">
+<img height="500" src="/Flutter/screenshots/03.png?raw=true">
+<img height="500" src="/Flutter/screenshots/04.png?raw=true">
 
 ## Atualização de produto já criado:
 
-<img src=“/screenshots/05.png”>
-<img src=“/screenshots/06.png”>
+<img height="500" src="/Flutter/screenshots/05.png?raw=true">
+<img height="500" src="/Flutter/screenshots/06.png?raw=true">
 
 ## Exclusão de produto:
 
-<img src=“/screenshots/07.png”>
-<img src=“/screenshots/08.png”>
+<img height="500" src="/Flutter/screenshots/07.png?raw=true">
+<img height="500" src="/Flutter/screenshots/08.png?raw=true">
 
