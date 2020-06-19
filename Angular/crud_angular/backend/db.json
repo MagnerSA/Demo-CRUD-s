@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Banana",
-      "price": "2.50",
-      "shelfLife": "25/02/2021"
-    },
-    {
       "id": 2,
       "name": "Leite",
       "price": "5.60",
@@ -17,6 +11,18 @@
       "name": "Cookie",
       "price": "2.00",
       "shelfLife": "01/01/2075"
+    },
+    {
+      "name": "Suco",
+      "price": "15.00",
+      "shelfLife": "10/10/10",
+      "id": 4
+    },
+    {
+      "name": "Coxinha",
+      "price": "2.50",
+      "shelfLife": "15/12/2020",
+      "id": 5
     }
   ]
 }
