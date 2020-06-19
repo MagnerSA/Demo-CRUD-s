@@ -1,4 +1,4 @@
-# Demo-CRUD-s
+# Demo CRUD's
 Demonstração de CRUD's básicos nos seguintes Frameworks:
 
 - Flutter;
