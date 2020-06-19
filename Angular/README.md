@@ -3,7 +3,7 @@ Sistema básico de cadastro de produtos para demonstração de funcionamento do 
 Ao compilar o projeto em um dispositivo, temos acesso ao seguinte:
 
 ## Página inicial:
-<img height="500" src="/Flutter/screenshots/01.png?raw=true">
+<img height="500" src="/Angular/screenshots/01.png?raw=true">
 
 ## Exibição da lista de produtos:
 <img height="500" src="/Angular/screenshots/02.png?raw=true">
