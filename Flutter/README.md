@@ -4,7 +4,7 @@ Ao compilar o projeto em um dispositivo, temos acesso ao seguinte:
 
 ## Leitura dos produtos cadastrados:
 
-<img src=“screenshots/01.png”>
+<img src=“./screenshots/01.png”>
 
 ## Criação de um novo produto:
 
