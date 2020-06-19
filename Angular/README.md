@@ -1,6 +1,7 @@
-# CRUD em Flutter
-Sistema básico de cadastro de produtos para demonstração de funcionamento do CRUD em Flutter.
-Ao compilar o projeto em um dispositivo, temos acesso ao seguinte:
+# CRUD em Angular
+Sistema básico de cadastro de produtos para demonstração de funcionamento do CRUD em Angular.
+(Utilizando backend temporário)
+Screenshots do frontend:
 
 ## Página inicial:
 <img height="500" src="/Angular/screenshots/01.png?raw=true">
