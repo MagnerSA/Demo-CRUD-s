@@ -1,8 +1,8 @@
 # Demo CRUD's
-DemonstraÃ§Ã£o de CRUD's bÃ¡sicos nos seguintes Frameworks:
+Demonstração de CRUD's básicos nos seguintes Frameworks:
 
 - Flutter;
 - Angular (frontend);
 - NestJS (backend).
 
-DemonstraÃ§Ãµes de funcionamento nas devidas pastas.
+Demonstrações de funcionamento nas devidas pastas.
