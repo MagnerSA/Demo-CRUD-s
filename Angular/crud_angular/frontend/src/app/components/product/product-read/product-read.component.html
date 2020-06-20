@@ -1,0 +1,25 @@
+<div class="mat-elevation-z4">
+    <ul style="list-style: none;">
+        <li *ngFor="let p of products">
+            <div class="card mat-elevation-z3">
+                <div class="data">
+                    <h1 class="name">{{p.name}}</h1>
+                    <h2 class="price">R$ {{p.price}}</h2>
+                    <h3 class="shelf">Data de validade: {{p.shelfLife}}</h3>
+                </div>
+                <div class="actions">
+                    <a routerLink="/products/update/{{p.id}}">
+                        <i class="edit material-icons">
+                            edit
+                        </i>
+                    </a>
+                    <a routerLink="/products/delete/{{p.id}}">
+                        <i class="delete material-icons">
+                            delete
+                        </i>
+                    </a>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>

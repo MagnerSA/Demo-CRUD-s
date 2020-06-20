@@ -1,0 +1,38 @@
+
+ul {
+    padding: 20px
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.card {
+    background-color: #463973;
+    padding: 10px;
+}
+
+.data {
+    max-width: 250px;
+}
+.name {
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+.price {
+    font-weight: 300;
+    margin-bottom: 2px;
+}
+.shelf {
+    font-weight: 300;
+    margin-bottom: 2px;
+}
+.actions {
+    max-width: 250px;
+}
+
+i {
+    margin-right: 3px;
+    color: white;
+}
+
