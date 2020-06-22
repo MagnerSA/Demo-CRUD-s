@@ -6,7 +6,7 @@ Screenshots do frontend:
 (Problema temporário no github na pasta do Frontend sendo resolvido)
 
 ## Página inicial:
-<img height="500" src="/Angular/screenshots/01.png?raw=true">
+<img height="500" src="/Angular%20e%20NestJS/Angular/screenshots/01.png?raw=true">
 
 ## Exibição da lista de produtos:
 <img height="500" src="/Angular/screenshots/02.png?raw=true">
