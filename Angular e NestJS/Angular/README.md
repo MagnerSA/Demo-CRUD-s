@@ -17,7 +17,7 @@ Screenshots do frontend:
 <img height="500" src="/Angular%20e%20NestJS/Angular/screenshots/03.png?raw=true">
 
 ### Listando todos produtos (com produto criado) (ao clicar em 'salvar)
-<img height="500" src="/Angular/screenshots/04.png?raw=true">
+<img height="500" src="/Angular%20e%20NestJS/Angular/screenshots/04.png?raw=true">
 
 ## Atualização de produto já criado:
 
